@@ -6,9 +6,9 @@
 本项目的5个可运行案例都弄懂的话，还感兴趣，再去下官网的案例进一步学习吧。加油！
 
 
-其它信息：
-IDE: Intellij IDEA
-IDEA maven 项目名：**myProject**
+其它信息：Intellij IDEA maven 项目
+
+项目名：**myProject**
 ```
 java -version
 java version "1.8.0_191"
