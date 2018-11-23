@@ -23,3 +23,6 @@ Java version: 1.8.0_191, vendor: Oracle Corporation, runtime: D:\Java\jdk1.8.0_1
 Default locale: zh_CN, platform encoding: GBK
 OS name: "windows 10", version: "10.0", arch: "amd64", family: "windows"
 ```
+
+----------
+补充，个人修改的代码是由问题的！不能正确的处理wine分类问题。
